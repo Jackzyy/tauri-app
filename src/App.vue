@@ -1,7 +1,3 @@
 <template>
-  <div class="app">app</div>
+  <router-view />
 </template>
-
-<script setup lang="ts"></script>
-
-<style scoped></style>
